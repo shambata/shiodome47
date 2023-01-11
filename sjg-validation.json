@@ -1,0 +1,8 @@
+{
+"name”:”shiodome#3480”,
+"ticker”:”SODM”,
+"discordId":"422781189074583562",
+"pool-list":"true",
+"poolMetaData":"https://raw.githubusercontent.com/shambata/shiodome47/main/poolMetaData.json",
+"validation":"https://raw.githubusercontent.com/shambata/shiodome47/main/sjg-validation.json"
+}
