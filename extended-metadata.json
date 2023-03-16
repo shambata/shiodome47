@@ -1,0 +1,34 @@
+{
+    "verification":"verification-string-here-for-pool-claim",
+    "how-to-implement": "in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/cexplorer.io/main/examples/meta.json",
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/shambata/shiodome47/main/shiodome47_64_64.png",
+        "url_png_logo": "http(s) url to pool logo; png format; not animated; max 50kb",
+        "location": "JAPAN",
+        "social": {
+            "twitter_handle": "@shiodome47",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "shiodome#3480",
+            "github_handle": "",
+            "patreon_handle": "",
+            "linkedin_handle": "",
+            "ada_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "",
+            "country": "",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "...",
+            "server": "",
+            "company": ""
+        }
+    }
+}
